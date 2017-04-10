@@ -7,7 +7,7 @@
 		</p>
 		<p> The ability to travel and experience new things interests me more than anything else.</p>
 		<p> My favorite team is the Packers so don't get into a discussion with me about football unless you know what you're talking about.</p>
-		<img src="images/profilepic.jpg" alt="my pic" />
+		<img src="images/profilepic.jpg"/>
 	</body>
 
 </html>
